@@ -1,0 +1,2 @@
+# An-Analysis-of-Shareholding-Pattern-of-BSE-500-Companies-
+The study analyzes BSE 500 shareholding patterns across promoters, FIIs, DIIs, and public investors, and their implications for governance and market stability.  It compares ownership across sectors using descriptive statistics and ANOVA, finding promoter dominance alongside growing institutional influence and varied public participation.
